@@ -635,7 +635,7 @@ function downloadAll(urls) {
 And html code is 
 <button onclick="downloadAll(window.links)">Test me!</button>
 ```
-##![](extra/image_of download.jpg)
+##![](image_of download.jpg)
 ## Meta
 
 Pratik Joshi - pratik.joshi7859@gmail.com
